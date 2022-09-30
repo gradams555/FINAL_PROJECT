@@ -1,3 +1,7 @@
+# George Adams
+# September 30, 2022
+# Main code for processing market value data
+
 import os, sys
 import qgis
 import qgis.core
