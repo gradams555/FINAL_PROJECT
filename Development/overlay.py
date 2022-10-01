@@ -1,5 +1,6 @@
 import statistics
 
+
 class Overlay():
 
     # constructor (can be derived by subclasses)
@@ -31,6 +32,7 @@ class Overlay():
             self.median_change = statistics.median(temp_list)
         else:
             self.average_change = 0
+
 
 class OverlayElement():
 
