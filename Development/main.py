@@ -1,5 +1,5 @@
 # George Adams
-# October 7, 2022
+# October 9, 2022
 # Main code for processing market value data
 
 import os, sys
